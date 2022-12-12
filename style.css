@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(orange, rgb(102, 255, 0));
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+header{
+    color: blue;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+    margin-top: 20px;
+}
+.timer {
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 20px3;
+}
